@@ -18,7 +18,7 @@ namespace SocketTest
             Application.Run(new FrmMain());
 
             //hello word!  
-            
+            //hello word!  
 
         }
     }
