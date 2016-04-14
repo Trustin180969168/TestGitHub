@@ -15,3 +15,12 @@ E:\艾臣上位机\SocketTest\SocketTest\obj\Debug\SocketTest.FrmMain.resources
 E:\艾臣上位机\SocketTest\SocketTest\obj\Debug\SocketTest.Properties.Resources.resources
 E:\艾臣上位机\SocketTest\SocketTest\obj\Debug\SocketTest.csproj.GenerateResource.Cache
 E:\艾臣上位机\SocketTest\SocketTest\obj\Debug\SocketTest.UI.FrmNetworkPW.resources
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.exe
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.pdb
+E:\Learn\github\TestGitHub\SocketTest\bin\Debug\SocketTest.exe
+E:\Learn\github\TestGitHub\SocketTest\bin\Debug\SocketTest.pdb
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.FrmMain.resources
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.Properties.Resources.resources
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.UI.FrmNetworkPW.resources
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.csproj.GenerateResource.Cache
+E:\Learn\github\TestGitHub\SocketTest\obj\Debug\SocketTest.csprojResolveAssemblyReference.cache

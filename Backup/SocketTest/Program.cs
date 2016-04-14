@@ -18,7 +18,7 @@ namespace SocketTest
             Application.Run(new FrmMain());
 
 
-           //  是的发生的发生法撒旦法师的
+
 
         }
     }
