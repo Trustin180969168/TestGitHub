@@ -17,7 +17,7 @@ namespace SocketTest
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmMain());
 
-            //test
+            //hello word!  
             
 
         }
