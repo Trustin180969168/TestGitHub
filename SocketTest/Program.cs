@@ -17,8 +17,11 @@ namespace SocketTest
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmMain());
 
+            //hello word!  政府的规定是否噶舒服撒饭都vs 的所发生的 
             //hello word!  
-            //hello word!  
+
+
+
 
         }
     }
